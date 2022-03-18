@@ -19,3 +19,6 @@ This is an application using React as the framework and allows the user to searc
 
 # Installation
 This program is designed to work in a browser. To work on the application's contents, the user must clone the repository and install dependencies.
+
+# Web App Demo Vid
+https://www.youtube.com/watch?v=gBZXLHKj044
